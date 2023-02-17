@@ -5,7 +5,7 @@
 <!--
 [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 -->
-[![](https://infogra.ru/wp-content/uploads/2018/06/15.gif)]
+
 <div align="center"><img src="https://infogra.ru/wp-content/uploads/2018/06/15.gif"/></div>
 
 <!--

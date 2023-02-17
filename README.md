@@ -2,7 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a front-end developer from Russia</h3>
 
+<!--
 [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+-->
+[![](https://infogra.ru/wp-content/uploads/2018/06/15.gif)]
 
 <!--
 <iframe src="https://chromedino.com/batman/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>

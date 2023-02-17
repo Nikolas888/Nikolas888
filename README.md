@@ -6,7 +6,7 @@
 [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 -->
 [![](https://infogra.ru/wp-content/uploads/2018/06/15.gif)]
-<img align="center" src="https://infogra.ru/wp-content/uploads/2018/06/15.gif"/>
+<div align="center"><img src="https://infogra.ru/wp-content/uploads/2018/06/15.gif"/></div>
 
 <!--
 <iframe src="https://chromedino.com/batman/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
